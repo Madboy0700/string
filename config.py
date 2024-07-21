@@ -5,11 +5,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-API_ID = int(getenv("API_ID", 2930013))
-API_HASH = getenv("API_HASH", "7cab92dcd979add511b79d693775e17d")
+API_ID = int(getenv("API_ID", 28736869))
+API_HASH = getenv("API_HASH", "258e1a4c3dc48e0c46ee7c8c927ac4a3")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "6788830543:AAFtjCy0w9zjbi3CknH-zVBWik4mvwL9w4E")
+BOT_TOKEN = getenv("BOT_TOKEN", "7489352285:AAEDwxDk-u4os2dzXsUdldjvEASfLw-fwC4")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://meyit31:Myt476331@cluster0.psvz6dk.mongodb.net/?retryWrites=true&w=majority")
 
-OWNER_ID = int(getenv("OWNER_ID", 1527476177))
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/S1F1RB1RSOHBET")
+OWNER_ID = int(getenv("OWNER_ID", 6510559004))
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DelularSohbet")
